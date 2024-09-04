@@ -6,6 +6,8 @@ I thrive on bringing Figma designs to life, whether it's with clean HTML, CSS, a
 
 [![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,nextjs,redux)](https://skillicons.dev)
 
+[![trophy](https://github-profile-trophy.vercel.app/?username=castylho&theme=dracula&title=Stars,Followers)](https://github.com/ryo-ma/github-profile-trophy)
+
 **✨ Projects coming soon!**
 
 
